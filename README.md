@@ -9,4 +9,5 @@ Input - XML file (Sample.xml) located at path Csharp_XMLParser/Csharp_XMLParser/
 
 Output - List all child nodes in SampleFileOutput.txt located at path Csharp_XMLParser/Csharp_XMLParser/Data in this repository.
 
-
+Snapshot of output:
+![Sample Output](https://github.com/YashMehta5596/Csharp_XMLParser/blob/main/XMLParser_Output.PNG)
